@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blurredoffice_0: -4972205402867269355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

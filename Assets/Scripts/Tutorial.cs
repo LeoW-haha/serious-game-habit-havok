@@ -1,5 +1,6 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Tutorial : MonoBehaviour
 {
@@ -7,7 +8,7 @@ public class Tutorial : MonoBehaviour
     private int CurrentIndex;
     [SerializeField] private Sprite empty;
     [SerializeField] private GameObject TutorialUI;
-    [SerializeField] private SpriteRenderer TutorialSprite;
+    [SerializeField] private Image TutorialSprite;
     [SerializeField] private GameObject TitleScreen;
     
     [SerializeField] private AudioSource buttonAudio;

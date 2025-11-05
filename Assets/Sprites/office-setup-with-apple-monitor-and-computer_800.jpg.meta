@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      office-setup-with-apple-monitor-and-computer_800_0: -1791847898333203384
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

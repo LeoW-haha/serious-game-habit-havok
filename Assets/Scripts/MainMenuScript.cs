@@ -21,7 +21,7 @@ public class MainMenuScript : MonoBehaviour
     public void play()
     {
         buttonAudio.Play();
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     public void openPatientMenu()
