@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b77910a726174d4baf1c8795f16960a, type: 3}
+  m_Name: Tripped on Stairs
+  m_EditorClassIdentifier: 
+  habitName: Tripped on Stairs
+  description: You tripped on some stairs, lose some health
+  healthRate: 0
+  painRate: 0
+  addSalary: 0
+  addHealth: -10
+  addPain: 0
+  addMoney: 0
+  chance: 25
+  repeatable: 1
+  hasOccured: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e48bb944eeab0bf4888a09097edc2269, type: 3}
+  m_Name: Exercise
+  m_EditorClassIdentifier: 
+  habitName: Exercise
+  description: Increaes both health and pain rate. Exercise can help aid or improve
+    strength, lose weight and improve health
+  sprite: {fileID: 1095289597525825935, guid: 23c0c04273a30cb478dcc93060319c13, type: 3}
+  healthRate: 0.2
+  painRate: 0.2
+  leveledHealthRate: 0.1
+  leveledPainRate: 0
+  pointCost: 3
+  moneyCost: 0
+  refundCost: 3
+  levels: 1
+  currentLevel: 2
+  pointLevelIncrease: 1
+  addHealth: 0
+  addPain: 0

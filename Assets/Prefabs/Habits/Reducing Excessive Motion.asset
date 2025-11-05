@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e48bb944eeab0bf4888a09097edc2269, type: 3}
+  m_Name: Reducing Excessive Motion
+  m_EditorClassIdentifier: 
+  habitName: Reducing Excessive Moiton
+  description: Increases health rate. Repetitive tasks such as typing, reaching for
+    items, or using a mouse can lead to muscle strain and overuse injuries if not
+    managed properly. Reducing excessive motion can reduce fatigue, discomfort and
+    long term injuries.
+  sprite: {fileID: 21300000, guid: bdb25012ee9558f4ababb318c4401f8b, type: 3}
+  healthRate: 0.2
+  painRate: 0
+  leveledHealthRate: 0
+  leveledPainRate: 0
+  pointCost: 2
+  moneyCost: 0
+  refundCost: 1
+  levels: 2
+  currentLevel: 1
+  pointLevelIncrease: 1
+  addHealth: 0
+  addPain: 0
